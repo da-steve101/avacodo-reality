@@ -1,0 +1,58 @@
+Items in game:
+Deck of house cards
+Deck of action cards
+Time tokens
+Loyalty tokens
+Coin tokens
+Agent profiles
+Reputation Tracker
+
+House card distribution:
+Expensive is 20
+Medium is 30
+Easy/cheap is 40
+
+House cards:
+Each house card has reputation required. If your reputation drops below the required then you can't sell it or add tokens.
+They have a reward for selling on each card in coins and action cards.
+Each house card also has a number required to roll to sell it.
+Each house has a rental rate.
+House cards can have attributes that make it easier to sell based on previous sales or increase rewards for selling it.
+
+Action cards:
+Have multiple options on card
+Can discard for extra time token
+Can spend one time for an extra action card
+Optional during lead generation on your turn.
+
+End of game bonus:
+Most property sales gets + 5 coins
+
+Game mechanics:
+Game ends when any pile is empty
+Max 5 player?
+Each player starts with 5 time tokens
+Each round has four phases:
+	Phase one - lead generation:
+		Each player places a token at a time starting with the first player
+		If you pass you can't place any more tokens or discard or gain action cards
+	Phase two - auctioning:
+		Go in order from cheapest to most expensive ( left to right )
+		Everyone on a house rolls a dice. Add the dice roll to the number of time tokens + loyalty tokens.
+		If its a tie, the person with the most loyalty then the person with most time wins, if still a tie reputation
+		if still a tie whoever placed first the first token on there.
+		Failing to sell a property has a penalty of 1 coin
+	Phase three - renting:
+		If noone tried to sell a property then it is available to rent. 
+		Whoever has the most loyalty tokens on the property get the rental value.
+		If there is a tie noone gets it.
+	Phase four - cleanup:
+		Convert time tokens to loyalty.
+		Deal cards to fill blanks. If you can't draw cards then the game ends.
+		Get three time tokens
+
+
+Reputation:
+If you sell 0 houses drop reputation by -1
+If you sell 1 keep at current amount
+If you sell 2 or more reputation increases by that number

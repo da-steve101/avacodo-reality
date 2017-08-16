@@ -15,16 +15,15 @@ Agent profiles
 Reputation Tracker
 
 The aim of the game is to have the most money by the end of the game.
-Max 5 player?
 
 Setup:
-Shuffle the three house card decks and place them next to each other in a line.
-Place the tokens in piles where all players can reach.
-Shuffle the agent profiles and deal one to each player. Put the rest back in the box.
-Give each player 5 time tokens of their corresponding color.
-Place each players reputation marker on the reputation tracker based on their agent profile.
-Deal each player action cards based on their agent profile.
-The player with the highest reputation gets the first player token ( roll a dice if there is a tie ).
+	Shuffle the three house card decks and place them next to each other in a line.
+	Place the tokens in piles where all players can reach.
+	Shuffle the agent profiles and deal one to each player. Put the rest back in the box.
+	Give each player 5 time tokens of their corresponding color.
+	Place each players reputation marker on the reputation tracker based on their agent profile.
+	Deal each player action cards based on their agent profile.
+	The player with the highest reputation gets the first player token ( roll a dice if there is a tie ).
 
 Game play:
 Each round is divided into four phases.
@@ -55,6 +54,7 @@ Phase 4 - loyalty and reputation:
 	All players recieve 3 time tokens.
 	Remove "for sale" tokens from all properties.
 	Count the number of properties sold for each player that turn and adjust the reputation for each player. See "Reputation"
+	Rotate the first player token clockwise
 
 Selling a Property:
 	Starting with they player with the first player token, players declare if they are going to try sell that property.
@@ -106,6 +106,7 @@ Most property sales gets + 5 coins
 Game design notes ( not in rules ):
 
 Have multiple options on action card?
+Max 5 player?
 
 House card distribution:
 Expensive is 20

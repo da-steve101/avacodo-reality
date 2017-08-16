@@ -1,58 +1,114 @@
+Game Setting:
+Welcome to avacado reality! As a real estate agent it is your job to sell houses to make the company money.
+The agent who makes the most money for the company will win the Agent of the Year award and an all expenses paid holiday anywhere they want!
+Look at the properties in the agency window and try to sell them before anyone else can.
+You can also make money renting them while trying to find the right seller.
+
 Items in game:
 Deck of house cards
 Deck of action cards
 Time tokens
 Loyalty tokens
 Coin tokens
+Dice
 Agent profiles
 Reputation Tracker
+
+The aim of the game is to have the most money by the end of the game.
+Max 5 player?
+
+Setup:
+Shuffle the three house card decks and place them next to each other in a line.
+Place the tokens in piles where all players can reach.
+Shuffle the agent profiles and deal one to each player. Put the rest back in the box.
+Give each player 5 time tokens of their corresponding color.
+Place each players reputation marker on the reputation tracker based on their agent profile.
+Deal each player action cards based on their agent profile.
+The player with the highest reputation gets the first player token ( roll a dice if there is a tie ).
+
+Game play:
+Each round is divided into four phases.
+These are lead generation, auctioning, renting and loyalty and reputation.
+
+Phase 1 - lead generation:
+	Fill the display window - flip cards from the house decks until there are 3 from each class showing face up on the table.
+	Remove one loyalty token for each player on every commercial/industrial properties.
+	This is the agency display window indicating properties available to sell. If you cannot draw a card from one of the decks ( ie its empty )
+	then the game immediately ends here.
+	Each turn in this phase a player can optionally discard an action card for a time token and/or buy one action card for a time token.
+	They may then place one time token on any property. If they choose not to they cannot place any more tokens this turn or discard/buy more action cards.
+	They can only place tokens on properties that they have enough reputation for.
+	Continue until all players choose not to add any more time tokens.
+
+Phase 2 - auctioning:
+	In this phase, agents try to sell properties. Select the property closest to the deck for the current bracket starting with the cheap properties.
+	For each property, any number of players can declare they will try sell a property. See "Selling a property"
+	After that property is resolved move to the next property in that price bracket. If that bracket is completed move to medium, then expensive and repeat.
+	After all properties have had a chance to be sold move to the next phase.
+
+Phase 3 - renting:
+	If there is not a "for sale" token on it, it can be rented. The person with the highest amount of loyalty tokens ( not time ) can collect
+	rent from a property. If it is a tie on loyalty tokens on a property, no one gets the rent.
+
+Phase 4 - loyalty and reputation:
+	On all properties, remove all time tokens and return them to the supply. Replace them with same amount of loyalty tokens.
+	All players recieve 3 time tokens.
+	Remove "for sale" tokens from all properties.
+	Count the number of properties sold for each player that turn and adjust the reputation for each player. See "Reputation"
+
+Selling a Property:
+	Starting with they player with the first player token, players declare if they are going to try sell that property.
+	Players can only declare they are going to try sell a property if they have enough reputation to sell it (equal is ok).
+	After all players have declared if they are going to sell it or not, those that decide to sell it roll a dice.
+	Take that dice roll and add the number of time and loyalty tokens of theirs on that property to get the total roll.
+	If any player has a total roll above that required for the property to sell the house is sold.
+	The player with the highest total roll gets the rewards for that property selling.
+	In the event of a tie and above that required to sell the property, players roll a dice again and add their tokens to get a new total roll.
+	If the highest total roll gets the property even if it is now below the required amount for the property.
+	Remove all tokens from a sold property and return them to the supply. The player that sold the property places it next to their agent profile.
+	If noone sold the house, all players that tried to sell that property lose one coin if able. Place a "for sale" token on it.
+
+Property cards:
+	Each property card has the following info on it:
+		- The amount it is sold for indicated by the number on a gold circle
+		- The amount of action cards you get when selling on a card symbol
+		- The amount of coins you get for renting on a gold circle with a red border
+		- The amount of reputation required to sell it on a red star
+		- The dice roll required to sell it
+		- Property attributes
+
+Property attributes:
+	apartment - If have sold an apartment, reputation required to put tokens on or sell apartments decreases by one
+	countryside - If you have already sold a countryside property + one time token when you sell it
+	gated community - If you sold any another property this turn already +1 action card reward
+	remote - Have to return another time token to the supply to put the first time token on a remote property
+	waterfront - If you have already sold another waterfront property + 1 coin reward when selling
+	new build - doesn't do anything but required for some action cards
+	commercial/industrial - at the start of the lead generation phase remove one loyalty token
+
+Action cards:
+	Each action card will indicate when it can be played.
+	On your turn in the lead generation phase you can discard one action card for extra time token
+	On your turn in the lead generation phase you can pay one time toke for an extra action card
+	You can only do this once per turn.
+	Some action cards are once off. Discard after use. Others have "Permenant" on them. These are played on properties and remain until the property is sold.
+
+Reputation:
+	If a player sells 0 property drop reputation by -1
+	If a player sells 1 property keep at current amount
+	If a player sells 2 or more their reputation increases by the number of houses they sold.
+
+
+End of game bonus:
+Most property sales gets + 5 coins
+
+
+Game design notes ( not in rules ):
+
+Have multiple options on action card?
 
 House card distribution:
 Expensive is 20
 Medium is 30
 Easy/cheap is 40
 
-House cards:
-Each house card has reputation required. If your reputation drops below the required then you can't sell it or add tokens.
-They have a reward for selling on each card in coins and action cards.
-Each house card also has a number required to roll to sell it.
-Each house has a rental rate.
-House cards can have attributes that make it easier to sell based on previous sales or increase rewards for selling it.
-
-Action cards:
-Have multiple options on card
-Can discard for extra time token
-Can spend one time for an extra action card
-Optional during lead generation on your turn.
-
-End of game bonus:
-Most property sales gets + 5 coins
-
-Game mechanics:
-Game ends when any pile is empty
-Max 5 player?
-Each player starts with 5 time tokens
-Each round has four phases:
-	Phase one - lead generation:
-		Each player places a token at a time starting with the first player
-		If you pass you can't place any more tokens or discard or gain action cards
-	Phase two - auctioning:
-		Go in order from cheapest to most expensive ( left to right )
-		Everyone on a house rolls a dice. Add the dice roll to the number of time tokens + loyalty tokens.
-		If its a tie, the person with the most loyalty then the person with most time wins, if still a tie reputation
-		if still a tie whoever placed first the first token on there.
-		Failing to sell a property has a penalty of 1 coin
-	Phase three - renting:
-		If noone tried to sell a property then it is available to rent. 
-		Whoever has the most loyalty tokens on the property get the rental value.
-		If there is a tie noone gets it.
-	Phase four - cleanup:
-		Convert time tokens to loyalty.
-		Deal cards to fill blanks. If you can't draw cards then the game ends.
-		Get three time tokens
-
-
-Reputation:
-If you sell 0 houses drop reputation by -1
-If you sell 1 keep at current amount
-If you sell 2 or more reputation increases by that number

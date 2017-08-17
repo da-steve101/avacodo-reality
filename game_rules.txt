@@ -1,24 +1,25 @@
-Game Setting:
+Background:
 Welcome to avacado reality! As a real estate agent it is your job to sell houses to make the company money.
 The agent who makes the most money for the company will win the Agent of the Year award and an all expenses paid holiday anywhere they want!
 Look at the properties in the agency window and try to sell them before anyone else can.
 You can also make money renting them while trying to find the right seller.
 
 Items in game:
-Deck of house cards
-Deck of action cards
-Time tokens
-Loyalty tokens
-Coin tokens
-Dice
-Agent profiles
-Reputation Tracker
+	Deck of house cards
+	Deck of action cards
+	Time tokens
+	Loyalty tokens
+	Coin tokens
+	Dice
+	Agent profiles
+	Reputation Tracker
+	For sale tokens
 
 The aim of the game is to have the most money by the end of the game.
 
 Setup:
 	Shuffle the three house card decks and place them next to each other in a line.
-	Place the tokens in piles where all players can reach.
+	Place all the tokens in supply piles where all players can reach.
 	Shuffle the agent profiles and deal one to each player. Put the rest back in the box.
 	Give each player 5 time tokens of their corresponding color.
 	Place each players reputation marker on the reputation tracker based on their agent profile.
@@ -26,17 +27,20 @@ Setup:
 	The player with the highest reputation gets the first player token ( roll a dice if there is a tie ).
 
 Game play:
-Each round is divided into four phases.
-These are lead generation, auctioning, renting and loyalty and reputation.
+Each round is divided into four phases. These are:
+	lead generation
+	auctioning
+	renting
+	loyalty and reputation
 
 Phase 1 - lead generation:
 	Fill the display window - flip cards from the house decks until there are 3 from each class showing face up on the table.
-	Remove one loyalty token for each player on every commercial/industrial properties.
 	This is the agency display window indicating properties available to sell. If you cannot draw a card from one of the decks ( ie its empty )
 	then the game immediately ends here.
+	Remove one loyalty token for each player on every commercial/industrial properties.
 	Each turn in this phase a player can optionally discard an action card for a time token and/or buy one action card for a time token.
-	They may then place one time token on any property. If they choose not to they cannot place any more tokens this turn or discard/buy more action cards.
-	They can only place tokens on properties that they have enough reputation for.
+	They may then place one or more time tokens on any property. If they choose not to they cannot place any more tokens this turn or discard/buy more action cards.
+	They can only place tokens on properties that they have enough reputation for ( tie is ok ).
 	Continue until all players choose not to add any more time tokens.
 
 Phase 2 - auctioning:
@@ -48,16 +52,17 @@ Phase 2 - auctioning:
 Phase 3 - renting:
 	If there is not a "for sale" token on it, it can be rented. The person with the highest amount of loyalty tokens ( not time ) can collect
 	rent from a property. If it is a tie on loyalty tokens on a property, no one gets the rent.
+	There is no reputation requirement for being able to rent a property.
 
 Phase 4 - loyalty and reputation:
-	On all properties, remove all time tokens and return them to the supply. Replace them with same amount of loyalty tokens.
 	All players recieve 3 time tokens.
+	On all properties, remove all time tokens and return them to the supply. Replace them with same amount of loyalty tokens.
 	Remove "for sale" tokens from all properties.
 	Count the number of properties sold for each player that turn and adjust the reputation for each player. See "Reputation"
 	Rotate the first player token clockwise
 
 Selling a Property:
-	Starting with they player with the first player token, players declare if they are going to try sell that property.
+	Starting with they player with the first player token and going clockwise, players declare if they are going to try sell that property.
 	Players can only declare they are going to try sell a property if they have enough reputation to sell it (equal is ok).
 	After all players have declared if they are going to sell it or not, those that decide to sell it roll a dice.
 	Take that dice roll and add the number of time and loyalty tokens of theirs on that property to get the total roll.
@@ -67,15 +72,16 @@ Selling a Property:
 	If the highest total roll gets the property even if it is now below the required amount for the property.
 	Remove all tokens from a sold property and return them to the supply. The player that sold the property places it next to their agent profile.
 	If noone sold the house, all players that tried to sell that property lose one coin if able. Place a "for sale" token on it.
+	Place properties face up in front of the player that sold that property this turn.
 
 Property cards:
 	Each property card has the following info on it:
 		- The amount it is sold for indicated by the number on a gold circle
-		- The amount of action cards you get when selling on a card symbol
+		- The amount of action cards you get when selling on a green card symbol
 		- The amount of coins you get for renting on a gold circle with a red border
 		- The amount of reputation required to sell it on a red star
-		- The dice roll required to sell it
-		- Property attributes
+		- The dice roll required to sell it is a black box
+		- Property attributes in the text section
 
 Property attributes:
 	apartment - If have sold an apartment, reputation required to put tokens on or sell apartments decreases by one

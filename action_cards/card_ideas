@@ -1,34 +1,39 @@
-catlady neighbour - Increase the dice roll required to sell by one - "You will get used to her"
-im a friend of ... - If someone didn't try to sell a property this turn you can try sell their property using their loyalty + time tokens
-hurry, it wont last long - make one house require two more dice rolls this turn
-gourmet kitchen - Add to a house with no tokens at the start of phase one. This house is permentantly worth 2 more coins when sold.
-near transportation - make this house require +1 dice roll permenantly - "This neighbourhood is really loud"
-cookies in the oven - make this house require -1 dice roll for this turn - "Everyone likes cookies"
-reading glasses open on a book - Give two extra action cards if a house sells this turn - "The owner is cosmopoliton and you can be too"
-craving smashed avo - A target player recieves one less coin for every house they sell on this turn - "Avo is expensive"
-perfectly placed pillows - If a target house sells this turn, it gives the seller 1 extra coin
-hide asbestos - Lower the dice roll required to sell a house this turn by 2 - "What you don't know can't hurt you"
-roses and champagne - Lower the reputation required for a house this round by 1 - "Makes it look like you know what your doing"
-overseas investor - If a target house sells this turn, it gives the seller 3 extra coins. Only applies to new builds
-new regulations - Play at the start of lead generation phase. Noone gets rent this turn
-ignore renter complaints - Play at the start of lead generation phase. Choose a house and double the rent it pays this turn - "Sorry she is out of the office"
-surprise inspection - Play at any time. Target property doesn't get rent this turn - "There should be a door here"
-photoshop images - Pay one reputation and get +3 to any dice roll at anytime - "I thought there was a pool ..."
-location shots - Gain +2 to a dice roll for one property this turn
-intimidating renter - No one can try sell this property this turn
-suspicious smell - Dice rolls required for everyone is +2 to sell this property
-*renovations - Remove all action cards from a property and add 1 coin to sale price
-*hire an arsonist - Pay 2 coins. Roll a dice, if it is 5 or 6 the arson attempt succeeds. Return all tokens to a players on one property (converting each loyalty back to time tokens ) and shuffle that property back into the deck. Draw a new property to fill that spot in cleanup.
-*scheduling miscommunication - Play at start of auctioning phase. Choose one property and one player, that player attempts to sell that property even if reputation requirements are not met. If the sale fails lose 2 reputation.
-*student renters - Play at the start of the renting phase. Rent all cheap properties with no time or loyalty tokens on them.
-bribery - Pay 2 coins and choose a property. For this property you can place tokens on it this turn ignoring reputation requirements.
-work overtime - Gain two time tokens
-*suck up to the boss - Pay two time tokens and choose a property. Noone else can place tokens on it this round.
-frame someone - Target player rolls a dice if its 1-2 they lose 2 reputation. If its 3-4 they lose 1. If its 5-6 you lose 1.
-market forces - Increase all rental yeilds by 1 coin this turn.
-flamable building cladding - Play on an property of apartment type. All players ( including you ) that have tokens on that property can choose to pay one coin for each loyalty token on that property or convert it to a time token and move it back to their supply.
-get a valuation - Play on a property. This property gives 1 more coin when sold.
-paint over mold - The required dice roll is lowered by 2 when sold
-hire a dodgy tradie - play on a property. If it sells this round then it gives one more coin otherwise it permenantly gives 2 less coins for this property.
-advertising - Pay 1 coin and move up 1 reputation.
-bosses birthday - All players immediately return one coin and one time token to the supply if able.
+catlady neighbour                "Permenant": Play any time in Lead Generation Phase => Increase the dice roll required to sell by one - "You will get used to her"
+im a friend of ...               Play at the end of the auctioning Phase => If there is no "For Sale" token on a property you can try sell it using adding any single players tokens as if they were yours
+hurry, it wont last long         Play at the end of the auctioning Phase => For a property you tried to sell this turn but failed you ( and only you ) can roll again to try sell it
+gourmet kitchen                  "Permenant": Play before token placement in the lead generation phase => This house is permentantly worth 2 more coins when sold.
+loud neighbourhood               "Permenant": Play any time in the lead generation phase => This house requires +1 dice roll to sell - "This is 'near transportation'"
+cookies in the oven              Play in the lead generation phase => Make this house require -1 dice roll for this turn - "No, you can't eat them"
+reading glasses on a open book   Play in the lead generation phase => Give two extra action cards if a house sells this turn - "The owner is cosmopoliton and you can be too"
+craving smashed avo              Play in the lead generation phase => A target player recieves one less coin for every house they sell on this round - "Avo is expensive"
+perfectly placed pillows         Play in the lead generation phase => Choose a property. If it sells this turn, it gives the seller 1 extra coin
+hide asbestos                    Play before token placement => Lower the dice roll required to sell a property this round by 2 - "What you don't know can't hurt you"
+roses and champagne              Play before token placement => Lower the reputation required for a property this round by 1 - "Makes it look like you know what your doing"
+overseas investor                Play before token placement => If a target property sells this turn, it gives the seller 3 extra coins. Only applies to new builds
+new regulations                  Play before token placement => Noone gets coins for renting this round
+ignore renter complaints         Play before token placement => Choose a house and double the rent it pays this turn - "Sorry she is out of the office"
+surprise inspection              Play at anytime => Target property doesn't get rent this turn - "There should be a door here"
+photoshop images                 Play at anytime => Pay one reputation and get +3 to any dice roll after rolling - "I thought there was a pool ..."
+location shots                   Play before anyone rolls to sell a property => Gain +2 to a dice roll when trying to sell this property
+intimidating renter              Play in the lead generation phase => No one can try sell a target property this turn
+suspicious smell                 Play in the lead generation phase => Dice rolls required for everyone is +2 to sell this property
+*renovations                     "Permenant": Play in the lead generation phase => When played, remove all action cards from a property. This property is now worth 1 extra coin
+*hire an arsonist                Play in the lead generation phase => Pay 2 coins and roll a dice.
+                                               If it is 5 or 6 the arson attempt succeeds. Remove all on one property and return to the supply. Shuffle that property back into the deck. Do not draw a new property this round.
+                                               If it is 1 or 2 the arsonist feels guilty and reports you. Lose 2 reputation.
+*scheduling miscommunication     Play when players can declare for a property => Choose one player, that player attempts to sell that property even if reputation requirements are not met. If the sale fails lose 1 reputation in addition to the coin penalty.
+*student renters                 Play in the renting phase => Collect rent for all cheap properties with no time or loyalty tokens on them
+bribery                          Play in the lead generation phase => Pay 2 coins and choose a property. For this property you can place tokens on it this round ignoring reputation requirements.
+work overtime                    Play at anytime => Gain two time tokens
+*suck up to the boss             Play in the lead generation phase => Pay two time tokens and choose a property. Noone else can place tokens on it this round.
+frame someone                    Play anytime => Target player rolls a dice if its 1-2 they lose 2 reputation. If its 3-4 they lose 1. If its 5-6 you lose 1.
+market forces                    Play in the lead generation phase => Increase all rental yeilds by 1 coin this turn.
+flamable building cladding       Play in the lead generation phase => Play on an property of apartment type. All players ( including you ) that have tokens on that property can choose to pay one coin for each loyalty token on that property or convert it to a time token and move it back to their supply.
+get a valuation                  "Permenant": Play in the lead generation phase => Choose a property. This property gives 1 more coin when sold.
+paint over mold                  "Permenant": Play in the lead generation phase => The required dice roll is lowered by 2
+hire a dodgy tradie              "Permenant": Play in the lead generation phase => Choose a property. If it sells this round then it gives one more coin otherwise it permenantly gives 2 less coins for this property. - "Just tape up them pipes"
+advertising                      Play at anytime => Pay 1 coin and move up 1 reputation.
+bosses birthday                  Play at anytime => All players except you immediately return one coin and one time token to the supply if able.
+call referees                    Play at anytime => A target property pays no rent this round
+intestacy                        "Permenant": Play before token placement => Target property now has dice roll required of 1 and reputation required of 0 to sell
+infestation                      Play at anytime => A target property pays no rent this round
